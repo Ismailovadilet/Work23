@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Espresso",
+    "price": 7,
+    "cupSize": "L"
+  },
+  {
+    "name": "Americano",
+    "price": 6,
+    "cupSize": "M"
+  },
+  {
+    "name": "Latte",
+    "price": 4,
+    "cupSize": "S"
+  }
+]

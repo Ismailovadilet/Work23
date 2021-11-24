@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cat/Cat.iml" filepath="$PROJECT_DIR$/Cat/Cat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JsonPractice/JsonPractice.iml" filepath="$PROJECT_DIR$/JsonPractice/JsonPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson5/Lesson5.iml" filepath="$PROJECT_DIR$/Lesson5/Lesson5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson6/Lesson6.iml" filepath="$PROJECT_DIR$/Lesson6/Lesson6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson7/Lesson7.iml" filepath="$PROJECT_DIR$/Lesson7/Lesson7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson8/Lesson8.iml" filepath="$PROJECT_DIR$/Lesson8/Lesson8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson9/Lesson9.iml" filepath="$PROJECT_DIR$/Lesson9/Lesson9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Method/Method.iml" filepath="$PROJECT_DIR$/Method/Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modifikator/Modifikator.iml" filepath="$PROJECT_DIR$/Modifikator/Modifikator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyExeception/MyExeception.iml" filepath="$PROJECT_DIR$/MyExeception/MyExeception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Povtorenie2/Povtorenie2.iml" filepath="$PROJECT_DIR$/Povtorenie2/Povtorenie2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set/Set.iml" filepath="$PROJECT_DIR$/Set/Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie/Zadanie.iml" filepath="$PROJECT_DIR$/Zadanie/Zadanie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie №5/Zadanie №5.iml" filepath="$PROJECT_DIR$/Zadanie №5/Zadanie №5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie №6/Zadanie №6.iml" filepath="$PROJECT_DIR$/Zadanie №6/Zadanie №6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie №7/Zadanie №7.iml" filepath="$PROJECT_DIR$/Zadanie №7/Zadanie №7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie8/Zadanie8.iml" filepath="$PROJECT_DIR$/Zadanie8/Zadanie8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie№11/Zadanie№11.iml" filepath="$PROJECT_DIR$/Zadanie№11/Zadanie№11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie№12/Zadanie№12.iml" filepath="$PROJECT_DIR$/Zadanie№12/Zadanie№12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie№13/Zadanie№13.iml" filepath="$PROJECT_DIR$/Zadanie№13/Zadanie№13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie№14/Zadanie№14.iml" filepath="$PROJECT_DIR$/Zadanie№14/Zadanie№14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie№16/Zadanie№16.iml" filepath="$PROJECT_DIR$/Zadanie№16/Zadanie№16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie№17/Zadanie№17.iml" filepath="$PROJECT_DIR$/Zadanie№17/Zadanie№17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie№18.1/Zadanie№18.1.iml" filepath="$PROJECT_DIR$/Zadanie№18.1/Zadanie№18.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie№18.2/Zadanie№18.2.iml" filepath="$PROJECT_DIR$/Zadanie№18.2/Zadanie№18.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie№9/Zadanie№9.iml" filepath="$PROJECT_DIR$/Zadanie№9/Zadanie№9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson1/lesson1.iml" filepath="$PROJECT_DIR$/lesson1/lesson1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson2/lesson2.iml" filepath="$PROJECT_DIR$/lesson2/lesson2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson3/lesson3.iml" filepath="$PROJECT_DIR$/lesson3/lesson3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson4/lesson4.iml" filepath="$PROJECT_DIR$/lesson4/lesson4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/povtorenie/povtorenie.iml" filepath="$PROJECT_DIR$/povtorenie/povtorenie.iml" />
+    </modules>
+  </component>
+</project>
