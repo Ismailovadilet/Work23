@@ -21,7 +21,6 @@ public class Main {
         dog.eat();
         dog.ran();
         System.out.println();
-
         animal[2]=new Cat("Рэгдолл",3,5);
         System.out.println(animal[2].getClass());
         Cat cat= (Cat) animal[2];
