@@ -7,8 +7,8 @@ public class Main {
         animal[0] = new Sheep("Меринос", 3, 54);
         System.out.println(animal[0].getClass());
         Sheep sheep = (Sheep) animal[0];
-        boolean ss = animal[0] instanceof Animal;
-        System.out.println(ss);
+        boolean s = animal[0] instanceof Animal;
+        System.out.println(s);
         sheep.eat();
         sheep.give();
         System.out.println();
@@ -19,8 +19,9 @@ public class Main {
         boolean f = animal[1] instanceof Animal;
         System.out.println(f);
         dog.eat();
-        dog.ran();
+        dog.run();
         System.out.println();
+
         animal[2]=new Cat("Рэгдолл",3,5);
         System.out.println(animal[2].getClass());
         Cat cat= (Cat) animal[2];
@@ -29,11 +30,10 @@ public class Main {
         cat.eat();
         cat.play();
 
-
         Sheep[] sheep1 = {sheep};
         Dog[] dogs = {dog};
         Cat[] cats={cat};
-        Class clas = new Class(dogs, sheep1,cats);
-        System.out.println(clas);
+        Class klass = new Class(dogs, sheep1,cats);
+        System.out.println(klass);
     }
 }

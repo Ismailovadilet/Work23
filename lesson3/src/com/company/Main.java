@@ -16,8 +16,6 @@ public class Main {
             massiv[a]=random.nextInt(100);
             a++;
             System.out.println(a);
-
-
         }
     }
 }

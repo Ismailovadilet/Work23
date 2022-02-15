@@ -29,20 +29,19 @@ public class Coffee {
         this.cupSize = cupSize;
     }
 
-    public static Coffee makeCoffee(String name, int price, CupSize size){
-        Coffee coffee=new Coffee();
-        coffee.name=name;
-        coffee.price=price;
-        coffee.cupSize=size;
+    public static Coffee makeCoffee(String name, int price, CupSize size) {
+        Coffee coffee = new Coffee();
+        coffee.name = name;
+        coffee.price = price;
+        coffee.cupSize = size;
         return coffee;
-
     }
 
     @Override
     public String toString() {
         return "Coffee{" +
                 "name='" + name + '\'' +
-                ", price="+ price +
+                ", price=" + price +
                 ", cupSize=" + cupSize +
                 '}';
     }
